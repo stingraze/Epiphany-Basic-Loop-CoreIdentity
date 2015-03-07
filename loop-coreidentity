@@ -1,0 +1,14 @@
+/*
+Simple Printing and Core Identity and Loop Sample
+
+By Tsubasa Kato 2015
+*/
+
+a=0
+
+for i=1 to 10
+a = a + 2
+print a+" "+coreid
+next
+
+
