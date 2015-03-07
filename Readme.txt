@@ -1,4 +1,4 @@
-This is a simple example of loop and using showing core identity of Epiphany.
+This is a simple example of loop and using showing core identity of Epiphany using Epiphany Basic (ebasic).
 
 How to run
 
